@@ -1,6 +1,6 @@
 # RSS-Feeds
 
-##General (some might be dutch)
+## General (some might be dutch)
 http://feeds.bbci.co.uk/news/rss.xml?edition=int
 https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
 https://feeds.nos.nl/nosnieuwsalgemeen
@@ -11,7 +11,7 @@ https://www.nu.nl/rss/internet
 
 
 
-##Tech
+## Tech
 http://feeds.feedburner.com/tweakers/nieuws
 https://feeds.feedburner.com/tweakers/reviews
 https://feeds.ncsc.nl/nieuws.rss
@@ -22,14 +22,14 @@ https://www.sidn.nl/rss/job-posting
 https://www.sidn.nl/rss/weblog
 https://www.docker.com/feed/
 
-##Security
+## Security
 https://krebsonsecurity.com/feed/
 https://advisories.ncsc.nl/rss/advisories
 https://www.vmware.com/security/advisories.xml
 https://www.cisa.gov/cybersecurity-advisories/cybersecurity-advisories.xml
 https://www.linkedin.com/pulse/security-rss-feeds-brad-voris
 
-##Status
+## Status
 https://status.datto.com/history.rss
 https://cspreporter.nl/feed/actueel
 https://cspreporter.nl/feed/storingen
