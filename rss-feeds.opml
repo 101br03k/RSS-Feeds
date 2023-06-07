@@ -82,5 +82,8 @@
   type="rss" xmlUrl="https://status.webex.com/Webex_Contact_Center.rss"/>
   <outline text="Webex Service Status - Webex Meetings Incident" type="rss"
   xmlUrl="https://status.webex.com/Webex_Meetings.rss"/>
+  <outline text="NTP Pool News" type="rss"
+  xmlUrl="https://news.ntppool.org/post/index.xml"/>
+  
  </body>
 </opml>
