@@ -30,7 +30,7 @@
   <outline text="VMware Security Advisory" type="rss" xmlUrl="https://www.vmware.com/security/advisories.xml"/>
   <outline text="Webex Service Status - UCM Cloud Incident" type="rss" xmlUrl="https://status.webex.com/UCM_Cloud.rss"/>
   <outline text="Webex Service Status - Webex Calling Incident" type="rss" xmlUrl="https://status.webex.com/Webex_Calling.rss"/>
-  <outline text="FIA punish Steiner | thejudge13" type="rss" xmlUrl="https://thejudge13.com/feed/"/>
+  <outline text="thejudge13" type="rss" xmlUrl="https://thejudge13.com/feed/"/>
   <outline text="Leaseweb incidents RSS feed" type="rss" xmlUrl="https://www.leasewebstatus.com/rss/status"/>
   <outline text="SIDN Labs" type="rss" xmlUrl="https://www.sidn.nl/rss/weblog"/> 
   <outline text="Webex Service Status - Webex Control Hub Incident" type="rss" xmlUrl="https://status.webex.com/Webex_Control_Hub.rss"/> 

@@ -22,13 +22,13 @@
   VMware Security Advisory https://www.vmware.com/security/advisories.xml<br />
   Webex Service Status - UCM Cloud Incident https://status.webex.com/UCM_Cloud.rss<br />
   Webex Service Status - Webex Calling Incident https://status.webex.com/Webex_Calling.rss<br />
-  FIA punish Steiner | thejudge13 https://thejudge13.com/feed/<br />
+  thejudge13 https://thejudge13.com/feed/<br />
   Leaseweb incidents RSS feed https://www.leasewebstatus.com/rss/status<br />
   SIDN Labs https://www.sidn.nl/rss/weblog<br /> 
   Webex Service Status - Webex Control Hub Incident https://status.webex.com/Webex_Control_Hub.rss<br /> 
   Webex Service Status - Gateway and Solutions Incident https://status.webex.com/Gateway_and_Solutions.rss<br />
   Webex Service Status - Webex for Government Incident https://status.webex.com/Webex_for_Government.rss<br />
-  Nieuws https://www.sidn.nl/rss/news<br />
+  SIDN Nieuws https://www.sidn.nl/rss/news<br />
   Tweakers Mixed RSS Feed https://feeds.feedburner.com/tweakers/mixed<br />
   Leaseweb general RSS feed https://www.leasewebstatus.com/rss/general<br />
   CSP REPORTER - Feed https://cspreporter.nl/feed/storingen<br />
@@ -38,5 +38,5 @@
   Webex Service Status - Webex Contact Center Incident https://status.webex.com/Webex_Contact_Center.rss<br />
   Webex Service Status - Webex Meetings Incident https://status.webex.com/Webex_Meetings.rss<br />
   NTP Pool News https://news.ntppool.org/post/index.xml<br />
-  Moby Project https://blog.mobyproject.org/feed" type="rss<br />
+  Moby Project https://blog.mobyproject.org/feed<br />
  </body>
