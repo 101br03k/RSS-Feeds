@@ -1,4 +1,4 @@
-  Werken bij SIDN https://www.sidn.nl/rss/job-posting `<br>`
+  Werken bij SIDN https://www.sidn.nl/rss/job-posting 
   VMware Docs: updates for VMware vSphere+ https://docs.vmware.com/en/VMware-vSphere/rn_rss.xml
   NOS Nieuws http://feeds.nos.nl/nosnieuwsalgemeen
   Apple Newsroom https://www.apple.com/newsroom/rss-feed.rss
