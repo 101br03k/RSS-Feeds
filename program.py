@@ -52,14 +52,13 @@ def replace1():
     #for each line in the input file
     for line in fin:
         #read replace the string and write to output file
-        fout.write(line.replace('" type="rss" xmlUrl="', ''))
+        fout.write(line.replace('" type="rss" xmlUrl="', ' '))
     #close input and output files
     fin.close()
     fout.close()
-
-
+    
     #input file
-    fin = open("temp/out.md", "rt")
+    fin = open("temp/out1.md", "rt")
     #output file to write the result to
     fout = open("readme.md", "wt")
     #for each line in the input file
@@ -69,7 +68,6 @@ def replace1():
     #close input and output files
     fin.close()
     fout.close()
-    
     shutil.rmtree("temp") 
 
 copytobackup()
