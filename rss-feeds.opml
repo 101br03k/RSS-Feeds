@@ -36,7 +36,7 @@
   <outline text="Webex Service Status - Webex Control Hub Incident" type="rss" xmlUrl="https://status.webex.com/Webex_Control_Hub.rss"/> 
   <outline text="Webex Service Status - Gateway and Solutions Incident" type="rss" xmlUrl="https://status.webex.com/Gateway_and_Solutions.rss"/>
   <outline text="Webex Service Status - Webex for Government Incident" type="rss" xmlUrl="https://status.webex.com/Webex_for_Government.rss"/>
-  <outline text="Nieuws" type="rss" xmlUrl="https://www.sidn.nl/rss/news"/>
+  <outline text="SIDN Nieuws" type="rss" xmlUrl="https://www.sidn.nl/rss/news"/>
   <outline text="Tweakers Mixed RSS Feed" type="rss" xmlUrl="https://feeds.feedburner.com/tweakers/mixed"/>
   <outline text="Leaseweb general RSS feed" type="rss" xmlUrl="https://www.leasewebstatus.com/rss/general"/>
   <outline text="CSP REPORTER - Feed" type="rss" xmlUrl="https://cspreporter.nl/feed/storingen"/>
