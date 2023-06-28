@@ -1,4 +1,4 @@
-  Werken bij SIDN https://www.sidn.nl/rss/job-posting
+  Werken bij SIDN https://www.sidn.nl/rss/job-posting `<br>`
   VMware Docs: updates for VMware vSphere+ https://docs.vmware.com/en/VMware-vSphere/rn_rss.xml
   NOS Nieuws http://feeds.nos.nl/nosnieuwsalgemeen
   Apple Newsroom https://www.apple.com/newsroom/rss-feed.rss
@@ -24,8 +24,8 @@
   Webex Service Status - Webex Calling Incident https://status.webex.com/Webex_Calling.rss
   FIA punish Steiner | thejudge13 https://thejudge13.com/feed/
   Leaseweb incidents RSS feed https://www.leasewebstatus.com/rss/status
-  SIDN Labs https://www.sidn.nl/rss/weblog 
-  Webex Service Status - Webex Control Hub Incident https://status.webex.com/Webex_Control_Hub.rss 
+  SIDN Labs https://www.sidn.nl/rss/weblog
+  Webex Service Status - Webex Control Hub Incident https://status.webex.com/Webex_Control_Hub.rss
   Webex Service Status - Gateway and Solutions Incident https://status.webex.com/Gateway_and_Solutions.rss
   Webex Service Status - Webex for Government Incident https://status.webex.com/Webex_for_Government.rss
   Nieuws https://www.sidn.nl/rss/news
@@ -39,4 +39,5 @@
   Webex Service Status - Webex Meetings Incident https://status.webex.com/Webex_Meetings.rss
   NTP Pool News https://news.ntppool.org/post/index.xml
   Moby Project https://blog.mobyproject.org/feed" type="rss
- </body>
+
+</body>
