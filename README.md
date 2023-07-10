@@ -39,4 +39,5 @@
   Webex Service Status - Webex Meetings Incident https://status.webex.com/Webex_Meetings.rss<br />
   NTP Pool News https://news.ntppool.org/post/index.xml<br />
   Moby Project https://blog.mobyproject.org/feed<br />
+  GMS Arena https://www.gsmarena.com/rss-news-reviews.php3<br />
  </body>
