@@ -40,4 +40,6 @@
   NTP Pool News https://news.ntppool.org/post/index.xml<br />
   Moby Project https://blog.mobyproject.org/feed<br />
   GMS Arena https://www.gsmarena.com/rss-news-reviews.php3<br />
+  bbq-cloud https://www.bbq-cloud.com/index.xml/<br />
+  
  </body>
