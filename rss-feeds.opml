@@ -47,7 +47,7 @@
   <outline text="Webex Service Status - Webex Meetings Incident" type="rss" xmlUrl="https://status.webex.com/Webex_Meetings.rss"/>
   <outline text="NTP Pool News" type="rss" xmlUrl="https://news.ntppool.org/post/index.xml"/>
   <outline text="Moby Project" type="rss" xmlUrl="https://blog.mobyproject.org/feed"/>
-  <outline text="GSM Arena" type="rss" xmlUrl="https://www.gsmarena.com/rss-news-reviews.php3/>
+  <outline text="GSM Arena" type="rss" xmlUrl="https://www.gsmarena.com/rss-news-reviews.php3/">
   <outline text="bbq-cloud" type="rss" xmlUrl="https://www.bbq-cloud.com/index.xml/">
  </body>
 </opml>
