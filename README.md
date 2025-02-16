@@ -2,7 +2,6 @@ General<br>
   "https://www.sidn.nl/rss/job-posting"<br>
   "https://docs.vmware.com/en/VMware-vSphere/rn_rss.xml"<br>
   "https://www.apple.com/newsroom/rss-feed.rss"<br>
-  "https://feeds.feedburner.com/tweakers/reviews"<br>
   "https://www.bleepingcomputer.com/feed/"<br>
   "https://www.sidn.nl/rss/weblog"<br>
   "https://www.sidn.nl/rss/news"<br>
@@ -18,6 +17,9 @@ General<br>
   "https://defence-blog.com/feed/"<br>
   "https://www.proxmox.com/en/about/press-releases?format=feed&type=rss"<br>
   "https://www.lttlabs.com/articles/rss.xml"<br><br>
+
+General - Rate limited<br>
+  "https://feeds.feedburner.com/tweakers/reviews"<br><br>
 			
 Security<br>
   "https://advisories.ncsc.nl/rss/advisories"<br>
